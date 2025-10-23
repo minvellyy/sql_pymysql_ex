@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+
+생각정리.txt
 __pycache__/
 *.py[codz]
 *$py.class
